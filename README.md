@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on - just learning now
 - 📫 How to reach me luysyves@icloud.com
 - 😄 Situation: retired
-- ⚡ Fun fact: Picture of village was AI generated
+- ⚡ Fun fact: Picture of cat was AI generated
 
 <!---
 yvesluyssen/yvesluyssen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
